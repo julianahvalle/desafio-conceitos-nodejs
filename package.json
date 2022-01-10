@@ -9,12 +9,14 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "jest": "^26.6.3",
-    "nodemon": "^2.0.7",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
     "supertest": "^6.1.3"
-  }
+  },
+  "repository": "https://github.com/julianahvalle/desafio-conceitos-nodejs.git",
+  "author": "Juliana Valle <mfrasao@hotmail.com>"
 }
